@@ -1,6 +1,7 @@
 # ar-drone-detection
 
-A module allowing ar-drones to communicate with an express server over http.
+Goal:
+A node.js module allowing ar-drones to communicate with an express server over http.
 
 This detection system is to allow drones to transmit location data to a server over a local wifi network, this location data will be flooded back into the network allowing all other drones communicating with this server to see where this drone is located.
 
